@@ -1,8 +1,9 @@
+import './style.css'
 
 function App() {
   return (
-  <div>
-    <header className="text-red-800">
+  <div className="bg-red-500 h-5">
+    <header>
       Hello World!
     </header>
     </div>

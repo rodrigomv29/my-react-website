@@ -1,3 +1,5 @@
+const postcss = require("postcss");
+
 module.exports = {
     style: {
         postcssOptions: {
